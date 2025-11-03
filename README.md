@@ -21,7 +21,7 @@ Theory and practice of modern phylogenetic comparative methods. Students will le
 ## Course Policies
 
 ### Attendance
-Students should make all reasonable efforts to attend all class meetings. You are expected to participate in all discussions, have completed all readings before class, and to fully engage with the material and your classmates. However, in the event a student is unable to attend a class, it is the responsibility of the student to inform the instructor as soon as possible and make up class work missed within a reasonable amount of time. Missing class meetings may result in reducing the overall grade in the class due to a reduced participation score. Any relevant recordings, slides, and relevant notes will be available on Canvas or GitHub.
+Students should make all reasonable efforts to attend all class meetings. You are expected to participate in all discussions, have completed all readings before class, and to fully engage with the material and your classmates. However, in the event a student is unable to attend a class, it is the responsibility of the student to inform the instructor as soon as possible and make up class work missed within a reasonable amount of time. Missing more than 5 class meetings will result a reduction of the overall grade in the class due to a reduced participation score. Any relevant recordings, slides, and relevant notes will be available on Canvas or GitHub.
 
 ### Course Syllabus
 The course syllabus is subject to change by the instructor. Changes will be announced in class and on Canvas. Exam dates are unlikely to be changed from their original version.
