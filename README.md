@@ -13,7 +13,7 @@ None are required to be purchased; readings will be provided from the primary li
 - Revell, Liam J., and Luke J. Harmon. *Phylogenetic comparative methods in R*. Princeton University Press, 2022.
 - Harmon, Luke J. *Phylogenetic Comparative Methods*. 2022. [link](https://github.com/lukejharmon/pcm/tree/gh-pages)
 
-Readings will be provided as pdfs on Dr. Corn’s GitHub repository (https://github.com/kacorn/PCMs_531).
+Readings will be provided as pdfs on Dr. Corn’s GitHub repository (https://github.com/kacorn/macroevolution_course).
 
 ## Course Description
 Theory and practice of modern phylogenetic comparative methods. Students will learn about major methods of evolutionary analyses using phylogenies. We will discuss how models work, their pros and cons in implementation, read the literature of methods development and application, and practice using methods on real data. Students will conclude the course with a short project using their own datasets.
