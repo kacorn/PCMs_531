@@ -52,6 +52,7 @@ For each hour of lecture equivalent, students should expect to have a minimum of
 In support of fruitful and open academic discourse, we are all are expected to engage in courteous, civil, and mutually respectful exchanges focused on and relevant to the course materials. Students should not engage in disruptive behavior which obstructs or disrupts the learning environment, including, but not limited to, dominating the classroom or online discussion, behavior that disrupts the flow of instruction, or failure to cooperate in maintaining classroom decorum. Students engaging in behavior that is disruptive to the course objectives may be asked to leave or be referred to the appropriate disciplinary process. I am similarly committed to creating a civil and productive environment for the free exchange of ideas; students who have concerns about this should contact the department chair.
 
 ### Services for Students with Disabilities (SSD)
+Some materials for this course are not yet fully digitally accessible. WSU will accommodate students with disabilities to support accessing these documents – please contact Student Accommodations and Disability Resources as soon as possible for a reasonable accommodation.
 Washington State University welcomes students in need of accommodations. If you are in need of special accommodations due to a disability, as recognized by the Americans with Disabilities Act, please contact the WSU Access Center to communicate your needed arrangements as soon as possible (https://accesscenter.wsu.edu.).
 
 ### University Syllabus
