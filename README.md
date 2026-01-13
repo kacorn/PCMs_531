@@ -62,7 +62,7 @@ Students are responsible for reading and understanding all university-wide polic
 
 | Week | Dates |  Lecture Topic   | Lecture Text |  Empirical Paper | Methods Paper | Lab Topic | Lab Text |
 |------|-------|------------------|--------------|------------------|---------------|-----------|----------|
-| 1 | Jan 12-16 | Why is life so diverse? (debate) [Harmon slides](https://docs.google.com/presentation/d/1qa3edCStF0nWfGJH84RbbnQvipKaNpCV2X3_yIo7nBg/edit?usp=sharing)| Harmon [Ch 1](https://lukejharmon.github.io/pcm/chapter1_introduction/) | - | [Felsenstein 1985](papers/Fels1985.pdf); [Huey 2019](papers/Huey2019.pdf) | NA | NA |
+| 1 | Jan 12-16 | Why is life so diverse? (debate) [Harmon slides](https://docs.google.com/presentation/d/1qa3edCStF0nWfGJH84RbbnQvipKaNpCV2X3_yIo7nBg/edit?usp=sharing)| Harmon [Ch 1](https://lukejharmon.github.io/pcm/chapter1_introduction/) | - | [Felsenstein 1985](pdfs/Fels1985.pdf); [Huey 2019](pdfs/Huey2019.pdf) | NA | NA |
 | 2 | Jan 19-23 | The comparative approach in evolution | Harmon Ch 2 | Cheng et al 2004 New Phyt | Uyeda et al 2018 Syst Biol | NA | NA |
 | 3 | Jan 26-30 | Brownian motion | Harmon Ch 3, 4 | Mahler et al 2010 Evolution | - | Introduction to R | Revell & Harmon Ch 1 |
 | 4 | Feb 2-6 | PICs, PGLS |	Harmon Ch 5	| Rivera et al 2024 Ecol Evol	| Rohlf 2001	| PICs	| Revell & Harmon Ch 2  |
