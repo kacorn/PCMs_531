@@ -67,10 +67,10 @@ Students are responsible for reading and understanding all university-wide polic
 | 3 | Jan 26-30 | Brownian motion | Harmon Ch 3, 4 | Mahler et al 2010 Evolution | Felsenstein 1985, Huey 2019 | Introduction to R | Revell & Harmon Ch 1 |
 | 4 | Feb 2-6 | PICs, PGLS |	Harmon Ch 5	| Rivera et al 2024 Ecol Evol	| Rohlf 2001	| PICs	| Revell & Harmon Ch 2  |
 | 5	| Feb 9-13 | Multivariate BM |	- |	Hunt & Felice et al 2023 Evolution | Adams & Collyer 2019 Ann Rev |	PGLS |	Revell & Harmon Ch 3 |
-| 6 | Feb 16-20 |	Ornstein-Uhlenbeck and Multi-regime Models | Harmon Ch 6 | Miller al et Arcila 2025 Nat Eco Evo | Uyeda OUCH paper | Multi-regime models in R |	Revell & Harmon Ch 5 |
+| 6 | Feb 16-20 |	Ornstein-Uhlenbeck and Multi-regime Models | Harmon Ch 6 | Miller al et Arcila 2025 Nat Eco Evo | Uyeda & Harmon 2014 | Multi-regime models in R |	Revell & Harmon Ch 5 |
 | 7	| Feb 23 – 27 |	Discrete character evolution |	Harmon Ch 7-8 |	Kontopoulos et al 2025 Functional Ecol | Lewis 2001 |	Fitting Mk Models |	Revell & Harmon Ch 6 |
 | 8	| Mar 2-6 |	Extended Mk Models & HMMs |	Harmon Ch 9 | Boyko et al 2023 New Phyt |	Boyko & Beaulieu Syst Biol 2023 |	Ancestral state estimation |	Revell & Harmon Ch 8 |
-| 9	| Mar 9 – 13 |	Accounting for alternative sources of rate variation in continuous data | TBD | Burress & Muñoz 2022 Syst Biol	| Uyeda & Harmon 2014 |	Background rates in continuous data |	RevBayes/ MuSSCRat lab(?) (TBD) |
+| 9	| Mar 9 – 13 |	Accounting for alternative sources of rate variation in continuous data | TBD | Burress & Muñoz 2022 Syst Biol	| - |	Background rates in continuous data |	RevBayes/ MuSSCRat lab(?) (TBD) |
 | - |	Mar 16-21 |	Spring break		| 
 | 10 |	Mar 23-27 |	Speciation & extinction | Harmon Ch 10-11 |	Bars-Closel et al 2017 Evolution |	Nee et al 1994 |	Lineage through time plots & estimating speciation on trees |	Revell & Harmon Ch 9 |
 | 11 |	Mar 30 - Apr 3 |	Extended birth-death models |	Harmon Ch 12 |	Singhal et al 2025 Evol J Linn Soc |	Rabosky 2014 Plos One |	Estimating time-varying diversification on trees |	Revell & Harmon Ch 10 |
