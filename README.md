@@ -1,11 +1,10 @@
-# Course Syllabus - Principles of Systematic Biology
+# Course Syllabus - Macroevolution
 
 **Course**: BIOL 531  
-**Time**: Monday, Wednesday, & Friday 1:30-2:30pm, Abelson 306 or Zoom  
-**Professor**: Prof. Katherine Corn 
-**Office**: 399 Eastlick Hall  
-**Email**: [katherine.corn@wsu.edu](mailto:katherine.corn@wsu.edu)  
-**Office hours**: TBA
+**Time**: Monday, Wednesday, & Friday 1:30-2:30pm, Abelson 306 (WSU) or Zoom  
+**Professors**: Prof. Katherine Corn & Prof. Luke Harmon
+**Email**: [katherine.corn@wsu.edu](mailto:katherine.corn@wsu.edu) & [lukeh@uidaho.edu](mailto:lukeh@uidaho.edu)   
+**Office hours**: By appointment
 
 ## Textbooks
 None are required to be purchased; readings will be provided from the primary literature, as well as from the following texts. Purchase of these texts is optional, though they are great reference material for those interested in macroevolution.
