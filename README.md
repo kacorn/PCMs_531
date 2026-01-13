@@ -11,7 +11,7 @@
 None are required to be purchased; readings will be provided from the primary literature, as well as from the following texts. Purchase of these texts is optional, though they are great reference material for those interested in macroevolution.
 
 - Revell, Liam J., and Luke J. Harmon. *Phylogenetic comparative methods in R*. Princeton University Press, 2022.
-- Harmon, Luke J. *Phylogenetic Comparative Methods*. 2022. [link](https://github.com/lukejharmon/pcm/tree/gh-pages)
+- Harmon, Luke J. *Phylogenetic Comparative Methods*. 2022. [link](https://lukejharmon.github.io/pcm/)
 
 Readings will be provided as pdfs on Dr. Corn’s GitHub repository (https://github.com/kacorn/macroevolution_course).
 
@@ -62,17 +62,17 @@ Students are responsible for reading and understanding all university-wide polic
 
 | Week | Dates |  Lecture Topic   | Lecture Text |  Empirical Paper | Methods Paper | Lab Topic | Lab Text |
 |------|-------|------------------|--------------|------------------|---------------|-----------|----------|
-| 1 | Jan 12-16 | Why is life so diverse? (debate) | Harmon Ch  1 | - | Felsenstein 1985 | R setup: install ape + phytools, load tree & trait data | Revell & Harmon Ch 1 |
-| 2 | Jan 19-23 | MLK Day  | - | Cheng et al New Phyt 2024 | Blomberg et al 2003 | PGLS & Phylogenetic signal | Revell & Harmon Ch 2 & 3 |
-| 3 | Jan 26-30 | PICs, PGLS, & ANOVAs | Harmon Ch 2 | Mahler et al 2010 Evolution | Martins & Hansen 1997 | BM on a phylogeny + SLOUCH | Revell & Harmon Ch 4 |
-| 4 | Feb 2-6 | Brownian Motion as a model of trait evolution |	Harmon Ch 3 & 4	| Rivera et al 2024 Ecol Evol	| Stayton 2015 Evol	| Simulating BM	| Revell & Harmon Ch 4 |
-| 5	| Feb 9-13 |	Multivariate BM |	Harmon Ch 5 |	Hunt & Felice et al 2023 Evolution | Adams & Collyer 2019 Ann Rev |	Trait-dependent BM on a phylogeny |	Revell & Harmon Ch 5 |
-| 6 | Feb 16-20 |	Ornstein-Uhlenbeck Models |	Harmon Ch 6 |	Miller al et Arcila 2025 Nat Eco Evo | Butler & King 2004 Am Nat |	Evolution under OU on a phylogeny |	Revell & Harmon Ch 5 |
-| 7	| Feb 23 – 27 |	Discrete character evolution |	Harmon Ch 7-8 |	Kontopoulos et al 2025 Functional Ecol |	Huelsenbeck 2003 |	Fitting Mk Models |	Revell & Harmon Ch 6 |
-| 8	| Mar 2-6 |	Extended Mk Models & HMMs |	Harmon Ch 9 |	Boyko et al 2023 New Phyt |	Boyko & Beaulieu Syst Biol 2023 |	Ancestral state estimation |	Revell & Harmon Ch 7 |
+| 1 | Jan 12-16 | Why is life so diverse? (debate) | Harmon Ch  1 | - | - | NA | NA |
+| 2 | Jan 19-23 | The comparative approach in evolution | Harmon Ch 2 | Cheng et al 2004 New Phyt | Uyeda et al 2018 Syst Biol | NA | NA |
+| 3 | Jan 26-30 | Brownian motion | Harmon Ch 3, 4 | Mahler et al 2010 Evolution | Felsenstein 1985, Huey 2019 | Introduction to R | Revell & Harmon Ch 1 |
+| 4 | Feb 2-6 | PICs, PGLS |	Harmon Ch 5	| Rivera et al 2024 Ecol Evol	| Rohlf 2001	| PICs	| Revell & Harmon Ch 2  |
+| 5	| Feb 9-13 | Multivariate BM |	- |	Hunt & Felice et al 2023 Evolution | Adams & Collyer 2019 Ann Rev |	PGLS |	Revell & Harmon Ch 3 |
+| 6 | Feb 16-20 |	Ornstein-Uhlenbeck and Multi-regime Models | Harmon Ch 6 | Miller al et Arcila 2025 Nat Eco Evo | Uyeda OUCH paper | Multi-regime models in R |	Revell & Harmon Ch 5 |
+| 7	| Feb 23 – 27 |	Discrete character evolution |	Harmon Ch 7-8 |	Kontopoulos et al 2025 Functional Ecol | Lewis 2001 |	Fitting Mk Models |	Revell & Harmon Ch 6 |
+| 8	| Mar 2-6 |	Extended Mk Models & HMMs |	Harmon Ch 9 | Boyko et al 2023 New Phyt |	Boyko & Beaulieu Syst Biol 2023 |	Ancestral state estimation |	Revell & Harmon Ch 8 |
 | 9	| Mar 9 – 13 |	Accounting for alternative sources of rate variation in continuous data | TBD | Burress & Muñoz 2022 Syst Biol	| Uyeda & Harmon 2014 |	Background rates in continuous data |	RevBayes/ MuSSCRat lab(?) (TBD) |
 | - |	Mar 16-21 |	Spring break		| 
-| 10 |	Mar 23-27 |	Speciation & extinction |	Harmon Ch 10-11 |	Bars-Closel et al 2017 Evolution |	Nee et al 1994 |	Lineage through time plots & estimating speciation on trees |	Revell & Harmon Ch 9 |
+| 10 |	Mar 23-27 |	Speciation & extinction | Harmon Ch 10-11 |	Bars-Closel et al 2017 Evolution |	Nee et al 1994 |	Lineage through time plots & estimating speciation on trees |	Revell & Harmon Ch 9 |
 | 11 |	Mar 30 - Apr 3 |	Extended birth-death models |	Harmon Ch 12 |	Singhal et al 2025 Evol J Linn Soc |	Rabosky 2014 Plos One |	Estimating time-varying diversification on trees |	Revell & Harmon Ch 10 |
 | 12 |	Apr 6-10 |	Character-dependent lineage diversification models |	Harmon Ch 13 |	Zenil-Ferguson et al 2019 New Phyt |	Beaulieu & O'Meara 2016 Syst. Biol |	Estimating character-dependent diversification |	Revell & Harmon Ch 11 |
 | 13 |	Apr 13 - 17 |	Biogeography & community ecology |	Ronquist & Sanmartín 2011 |	Kawahara et al 2023 Nat Eco Evo |	Swiston & Landis Syst. Biol 2025 |	Ancestral area reconstruction |	Revell & Harmon Ch 12 |
