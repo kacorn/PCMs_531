@@ -59,8 +59,8 @@ Students are responsible for reading and understanding all university-wide polic
 
 ## Course Schedule (subject to change)
 
-| Week | Dates |  Empirical Paper | Methods Paper | Lab Topic | Lab Text |  Lecture Topic   | Lecture Text |
-|------|-------|------------------|---------------|-----------|----------|------------------|--------------|
+| Week | Dates | Lab Topic | Lab Text |  Empirical Paper | Methods Paper |  Lecture Topic   | Lecture Text |
+|------|-------|-----------|----------|------------------|---------------|------------------|--------------|
 | 1 | Jan 12-16 |NA | NA |  - | [Felsenstein 1985](pdfs/Fels1985.pdf); [Huey 2019](pdfs/huey2019.pdf) | Why is life so diverse? (debate) [Harmon slides](https://docs.google.com/presentation/d/1qa3edCStF0nWfGJH84RbbnQvipKaNpCV2X3_yIo7nBg/edit?usp=sharing)| Harmon [Chapter 1](https://lukejharmon.github.io/pcm/chapter1_introduction/) |
 | 2 | Jan 19-23 |NA | NA | -  | [Uyeda et al 2018](pdfs/uyeda2018.pdf)  | The comparative approach in evolution [slides](https://docs.google.com/presentation/d/1Y_-f0LkPXKGh84_x4fAhUb9j0DVdqFy2cekS9yMn968/edit?usp=sharing)| Harmon [Chapter 2](https://lukejharmon.github.io/pcm/chapter2_stats/) |
 | 3 | Jan 26-30 | Introduction to R | Revell & Harmon Ch 1 | [Mahler et al 2010](pdfs/Mahler2010.pdf) | [Losos 2008](pdfs/losos2008.pdf) | Brownian motion [slides](https://docs.google.com/presentation/d/1ZXcdyCAk_VY6-e_rm6Sl6-BZMGl2Ec6aJkJcLzW7EPs/edit?usp=sharing) | Harmon [Chapter 3](https://lukejharmon.github.io/pcm/chapter3_bmintro/) & [Chapter 4](https://lukejharmon.github.io/pcm/chapter4_fitbm/) |
